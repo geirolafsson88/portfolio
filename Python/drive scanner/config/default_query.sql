@@ -1,0 +1,1 @@
+SELECT * FROM files WHERE name LIKE '%H&E%' AND format LIKE '.tiff'
