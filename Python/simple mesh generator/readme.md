@@ -48,4 +48,4 @@ python main.py
 
 ### Example Output
 Here is an example of what is generated if you use the config file as supplied. 
-[mesh](mesh.png)
+![mesh](./mesh.PNG)
