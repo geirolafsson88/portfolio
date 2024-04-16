@@ -17,15 +17,11 @@ The software also provides features to search the database using SQL queries pro
 
 To set up the Hard Drive Scanner, you will need Python 3.6 or higher. No external dependencies are required beyond the Python Standard Library.
 
-1. Clone this repository to your local machine:
-
-```bash
-   git clone https://github.com/geirolafsson88/portfolio/python/hard-drive-scanner.git
-```
+1. Clone this repository to your local machine.
 
 2. Open a python environment and move to the cloned directory 
 ```bash
-    cd hard-drive-scanner
+    cd drive-scanner
 ```
 
 3. Open ./config/config.ini and make sure you set some sensible defaults for database name, path and default search query. These defaults are particularly useful if you do many similar searches.
