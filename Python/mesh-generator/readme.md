@@ -26,9 +26,7 @@ The code only uses built in python packages, there should not be any requirement
 
 ### Installing 
 Clone this repo using git, or just download it for github if you prefer. 
-```bash
-git clone https://geirolafsson88/Python/mesh-generator.git
-```
+
 Then open anaconda prompt or your choice of python prompt and navigate to the repo on your local machine
 ```bash
 cd mesh-generator
